@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WAFA Browser</string>
+    <string name="app_edition">Complete Edition</string>
+    <string name="developer_name">Md. Mehedi Hasan</string>
+    <string name="package_id">site.wafazone.browser</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_tabs">Tabs</string>
+    <string name="nav_vault">Private Vault</string>
+    <string name="nav_passwords">Password Manager</string>
+    <string name="nav_qr">QR Tools</string>
+    <string name="nav_pdf">PDF Tools</string>
+    <string name="nav_offline">Offline Library</string>
+    <string name="nav_privacy">Privacy Dashboard</string>
+    <string name="nav_performance">Performance</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Browser Controls -->
+    <string name="search_hint">Search or type URL</string>
+    <string name="action_reload">Reload</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_share">Share</string>
+    <string name="action_desktop_site">Desktop Site</string>
+    <string name="action_reader_mode">Reader Mode</string>
+    <string name="action_quick_save_vault">Save to Vault</string>
+    <string name="action_quick_lock">Quick Lock</string>
+
+    <!-- Vault Strings -->
+    <string name="vault_title">Encrypted Private Vault</string>
+    <string name="vault_enter_password">Enter Master Password</string>
+    <string name="vault_setup_password">Create Master Password</string>
+    <string name="vault_confirm_password">Confirm Master Password</string>
+    <string name="vault_unlock">Unlock</string>
+    <string name="vault_wrong_password">Incorrect password</string>
+    <string name="vault_auto_lock_notice">Auto-lock active (5m inactivity)</string>
+    <string name="vault_recovery_key">Recovery Key</string>
+</resources>

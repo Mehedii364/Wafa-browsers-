@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme using Material3 Dark -->
+    <style name="Theme.WafaBrowser" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#070B0E</item>
+        <item name="android:navigationBarColor">#0B1014</item>
+        <item name="android:windowBackground">#070B0E</item>
+    </style>
+</resources>

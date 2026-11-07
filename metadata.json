@@ -1,0 +1,6 @@
+{
+  "name": "WAFA Browser — Complete Edition",
+  "description": "Lightweight, privacy-focused browser with integrated encrypted Private Vault, ad & tracker shields, password manager, QR & PDF tools, and native Android project export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

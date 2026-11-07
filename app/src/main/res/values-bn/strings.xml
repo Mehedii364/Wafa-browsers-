@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ওয়াফা ব্রাউজার</string>
+    <string name="app_edition">কমপ্লিট এডিশন</string>
+    <string name="developer_name">মোঃ মেহেদী হাসান</string>
+    <string name="package_id">site.wafazone.browser</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_browser">ব্রাউজার</string>
+    <string name="nav_tabs">ট্যাবসমূহ</string>
+    <string name="nav_vault">প্রাইভেট ভল্ট</string>
+    <string name="nav_passwords">পাসওয়ার্ডস</string>
+    <string name="nav_qr">কিউআর টুলস</string>
+    <string name="nav_pdf">পিডিএফ টুলস</string>
+    <string name="nav_offline">অফলাইন লাইব্রেরি</string>
+    <string name="nav_privacy">প্রাইভেসি ড্যাশবোর্ড</string>
+    <string name="nav_performance">পারফরম্যান্স</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <!-- Browser Controls -->
+    <string name="search_hint">অনুসন্ধান করুন বা URL লিখুন</string>
+    <string name="action_reload">রিলোড</string>
+    <string name="action_stop">থামুন</string>
+    <string name="action_share">শেয়ার</string>
+    <string name="action_desktop_site">ডেস্কটপ মোড</string>
+    <string name="action_reader_mode">রিডার মোড</string>
+    <string name="action_quick_save_vault">ভল্টে সেভ করুন</string>
+    <string name="action_quick_lock">কুইক লক</string>
+
+    <!-- Vault Strings -->
+    <string name="vault_title">এনক্রিপ্টেড প্রাইভেট ভল্ট</string>
+    <string name="vault_enter_password">মাস্টার পাসওয়ার্ড দিন</string>
+    <string name="vault_setup_password">মাস্টার পাসওয়ার্ড সেটআপ করুন</string>
+    <string name="vault_confirm_password">মাস্টার পাসওয়ার্ড নিশ্চিত করুন</string>
+    <string name="vault_unlock">আনলক করুন</string>
+    <string name="vault_wrong_password">ভুল পাসওয়ার্ড</string>
+    <string name="vault_auto_lock_notice">অটো-লক সক্রিয় (৫ মিনিট নিষ্ক্রিয়তায়)</string>
+    <string name="vault_recovery_key">রিকভারি কি</string>
+</resources>
